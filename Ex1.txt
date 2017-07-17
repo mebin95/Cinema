@@ -1,0 +1,17 @@
+Encapsulation: This is the process of wrapping code and data together into a single unit. 
+In Java, you can create encapsulated classes by making the entire data member private and by creating getter and setter methods to access that data. 
+By providing only getter and setter method access, you can make the class read only. 
+For example, a member of staff may need an employee’s ID, but done this, you can use getter method so that they can access the employees ID but not modify it.
+
+Inheritance: This allows a class to use the properties and methods of another class. 
+For example, all Animals share the property of eat, walk/move etc. 
+However, there are properties specify to certain animals, eg Dogs have a tail but not all animals have a tail.
+
+Polymorphism: In java Polymorphism is implemented with method overriding. 
+Polymorphism is the process of representing one form in multiple forms. 
+For example, when you are in a class room, you behave like a student, but when you go shopping, you act like a customer etc.
+
+Abstraction: It’s the process of selecting important data sets for an Object in a program, and 
+leaving out the insignificant ones. For example, you might want to create a banking application and need to collect all the information about your customer. 
+However, many information may be related to a customer, but many of them are not required at least for a banking application. 
+Therefore, Abstraction is used to sort out the relevant information.
